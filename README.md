@@ -1,5 +1,6 @@
 # EuroPython 2019 :snake: :switzerland:
 ## Unleash the power of C++ in Python
+https://youtu.be/vvyTuFOJRrk
 
 *"A guide through the bindings generation process"*
 
